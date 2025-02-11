@@ -1,0 +1,121 @@
+{
+    "id": "X58E9647",
+    "code": "302",
+    "title": "Science",
+    "quota": 30,
+    "link": "https://www.classswift.viewsonic.io/",
+    "students": [
+        {
+            "id": "976bdaf0-cc46-4759-bf8f-43d91383021c",
+            "name": "Philip",
+            "order": 1,
+            "count": 2,
+            "inGroup": "A"
+        },
+        {
+            "id": "33b109db-02d0-4ddf-bf94-69339b8ec3b9",
+            "name": "Darrell",
+            "order": 2,
+            "count": 5,
+            "inGroup": "B"
+        },
+        {
+            "id": "0b07f921-4a8b-4090-8788-dca453669569",
+            "name": "Cody",
+            "order": 4,
+            "count": 9,
+            "inGroup": "C"
+        },
+        {
+            "id": "c326c722-50ec-455a-a1d3-85dc09067a64",
+            "name": "Bessie",
+            "order": 7,
+            "count": 0,
+            "inGroup": "D"
+        },
+        {
+            "id": "7f0ca6e7-90f0-4eda-acf9-0f46bf2ca4a4",
+            "name": "Wendy",
+            "order": 8,
+            "count": 3,
+            "inGroup": "E"
+        },
+        {
+            "id": "01539396-c500-474d-b758-68c236dc8356",
+            "name": "Esther",
+            "order": 10,
+            "count": 1,
+            "inGroup": "A"
+        },
+        {
+            "id": "21b1f700-80af-492f-beb5-c2575a05b0ef",
+            "name": "Gloria",
+            "order": 12,
+            "count": 1,
+            "inGroup": "B"
+        },
+        {
+            "id": "db4a18ae-f8b1-4ccd-815e-212fdb766551",
+            "name": "Lee",
+            "order": 14,
+            "count": 2,
+            "inGroup": "C"
+        },
+        {
+            "id": "6dc4b00c-4fb5-4dab-ba2d-76ef702cfbc0",
+            "name": "Ann",
+            "order": 16,
+            "count": 0,
+            "inGroup": "D"
+        },
+        {
+            "id": "19cd9359-6fe6-4508-8bcb-19e84d42e6c0",
+            "name": "Jacob",
+            "order": 17,
+            "count": 8,
+            "inGroup": "E"
+        },
+        {
+            "id": "fa1881b6-8eaf-4067-9a0d-49bf8d57e73f",
+            "name": "Calvin",
+            "order": 18,
+            "count": 2,
+            "inGroup": "A"
+        },
+        {
+            "id": "d1bb7de6-3d9d-4a2a-bbe9-1ee884a4facd",
+            "name": "Joe",
+            "order": 20,
+            "count": 0,
+            "inGroup": "E"
+        },
+        {
+            "id": "8ccfda92-55ef-4aa0-82d7-95d66aa8515c",
+            "name": "John",
+            "order": 22,
+            "count": 1,
+            "inGroup": "C"
+        },
+        {
+            "id": "6ed10e0a-5913-4891-b98e-c7f273d1b425",
+            "name": "Cathy",
+            "order": 26,
+            "count": 1,
+            "inGroup": "A"
+        },
+        {
+            "id": "44306b36-b9d8-4429-bdb7-fbcf0948bfbf",
+            "name": "Mia",
+            "order": 28,
+            "count": 3,
+            "inGroup": "E"
+        },
+        {
+            "id": "cfe03ead-a84d-48e8-a41a-9a7e704f8d52",
+            "name": "Lucas",
+            "order": 29,
+            "count": 2,
+            "inGroup": "A"
+        }
+    ]
+}
